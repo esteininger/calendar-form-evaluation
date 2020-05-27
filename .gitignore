@@ -1,3 +1,5 @@
 venv/*
 config.py
 env.json
+/__pycache__*
+*.pyc
